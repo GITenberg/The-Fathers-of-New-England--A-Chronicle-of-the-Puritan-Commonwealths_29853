@@ -1,0 +1,37 @@
+_repo: The-Fathers-of-New-England--A-Chronicle-of-the-Puritan-Commonwealths_29853
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Charles McLean
+    alias: Andrews, Charles M.
+    birthdate: 1863
+    deathdate: 1943
+    gutenberg_agent_id: '34215'
+    url: http://www.gutenberg.org/2009/agents/34215
+  editor:
+    agent_name: Johnson, Allen
+    birthdate: 1870
+    deathdate: 1931
+    gutenberg_agent_id: '1084'
+    url: http://www.gutenberg.org/2009/agents/1084
+    wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
+description: ''
+gutenberg_issued: '2009-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29853'
+  lccn: '19003162'
+language: en
+publication_note: 'New Haven :  Yale University Press,  1919'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Chronicles of America series; v. 06
+subjects:
+- !lcsh 'New England -- History -- Colonial period, ca. 1600-1775'
+- !lcc 'F001'
+title: 'The Fathers of New England: A Chronicle of the Puritan Commonwealths'
+url: http://www.gutenberg.org/ebooks/29853
