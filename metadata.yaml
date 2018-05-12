@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1084
     wikipedia: http://en.wikipedia.org/wiki/Allen_Johnson_(historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29853#The-Fathers-of-New-England--A-Chronicle-of-the-Puritan-Commonwealths
 gutenberg_issued: '2009-08-30'
 gutenberg_type: Text
 identifiers:
